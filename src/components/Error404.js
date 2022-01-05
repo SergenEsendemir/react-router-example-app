@@ -8,7 +8,5 @@ function Error404() {
     )
 }
 
-//testt
-
 
 export default Error404
